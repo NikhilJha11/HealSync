@@ -1,4 +1,4 @@
-![image](https://github.com/NikhilJha11/HealSync/assets/122666636/4181fba6-2bbc-42e9-94f7-ddbfdf49ecf7)*********************************************************************************************************************************************************
+*********************************************************************************************************************************************************
 # Project Setup and Run Instructions
 
 Welcome to the HealSync This README provides instructions for setting up and running the project using NPM and Flutter. Please make sure you have the necessary software and prerequisites installed before proceeding.
