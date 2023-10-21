@@ -89,13 +89,28 @@ The Flutter project should now be running on your device or simulator.
   ```
 ********************************************************************************************************************************************************
 APP- 
+
+
 ![image](https://github.com/NikhilJha11/HealSync/assets/122666636/3d491a3c-0bc2-4cf5-b25c-8d6d37d94bd0)
 ******************************************************************************************************************************************************
-Blockchain-![health_contract](https://github.com/NikhilJha11/HealSync/assets/122666636/e598d40c-48f6-4d59-9b8f-f2c24bc88eb4)
+Blockchain-
+
+
+![health_contract](https://github.com/NikhilJha11/HealSync/assets/122666636/e598d40c-48f6-4d59-9b8f-f2c24bc88eb4)
 ![getPatientRecord](https://github.com/NikhilJha11/HealSync/assets/122666636/7e94fcfe-8976-42dd-b152-89c17966ffb9)
 ********************************************************************************************************************************************************
 Website- 
+
+
+
 ![image](https://github.com/NikhilJha11/HealSync/assets/122666636/bfb64165-8261-4214-88a1-aa0a3d010fc0)
 ![main_web](https://github.com/NikhilJha11/HealSync/assets/122666636/69ea3c80-d912-4e09-bd65-1bf4e2d830e4)
 *******************************************************************************************************************************************************
+
+TELEMEDICINE CONSULTATION -
+
+![VC](https://github.com/NikhilJha11/HealSync/assets/122666636/5375a5a7-ae7a-4ed6-b961-621fdf9f3165)
+
+*********************************************************************************************************************************************************
+
 
