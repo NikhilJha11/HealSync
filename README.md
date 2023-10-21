@@ -113,6 +113,7 @@ COMPONENTS OF PROJECTS
 - E-PRESCRIPTION GENERATION AND STORAGE ON BLOCKCHAIN
 - HEALTH COMMUNITY FORUM BACKED BY BLOCKCHAIN
 - MEDICINE MARKETPLACE
+- IOT BASED FUTURE SOLUTION
 
 
 *******************************************************************************************************************************************************
@@ -121,6 +122,8 @@ APP-
 
 
 ![image](https://github.com/NikhilJha11/HealSync/assets/122666636/3d491a3c-0bc2-4cf5-b25c-8d6d37d94bd0)
+![image](https://github.com/NikhilJha11/HealSync/assets/122666636/608dd983-a329-4296-96f1-dbdd539ed7f9)
+
 ******************************************************************************************************************************************************
 *******************************************************************************************************************************************************
 Blockchain-
