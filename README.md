@@ -95,3 +95,12 @@ APP-
 ![Screenshot_20231022-014436609](https://github.com/NikhilJha11/HealSync/assets/122666636/6ce944db-ec0e-4423-8039-5d494516d508)
 ![Screenshot_20231022-014439402](https://github.com/NikhilJha11/HealSync/assets/122666636/1cffc5a6-2983-4f82-8790-43b756f0dede)
 ![Screenshot_20231022-014445317](https://github.com/NikhilJha11/HealSync/assets/122666636/a896c001-8fed-44f5-9b55-b558d8915bc7)
+
+******************************************************************************************************************************************************
+Blockchain-![addDoctor](https://github.com/NikhilJha11/HealSync/assets/122666636/941c6568-233e-494c-9f91-646790f2995d)
+![addDoctor](https://github.com/NikhilJha11/HealSync/assets/122666636/1ec76dfd-00a2-4c19-bdff-83441cdbf319)
+![health_contract](https://github.com/NikhilJha11/HealSync/assets/122666636/93f406e6-d055-43d3-aa9d-9ca89adfd4ca)
+![getPatientInfo](https://github.com/NikhilJha11/HealSync/assets/122666636/4981affb-4f7c-4cda-8e61-6fa3815494f7)
+![getPatientInfo](https://github.com/NikhilJha11/HealSync/assets/122666636/91b838af-5cb8-4f45-91df-5b3250266035)
+![health_contract](https://github.com/NikhilJha11/HealSync/assets/122666636/d5891d98-0e66-408e-b4b3-8c416bf4f36a)
+********************************************************************************************************************************************************
