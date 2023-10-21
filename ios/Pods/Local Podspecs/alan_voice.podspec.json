@@ -1,0 +1,29 @@
+{
+  "name": "alan_voice",
+  "version": "4.4.0",
+  "summary": "Alan voice plugin",
+  "description": "The Alan Voice AI Platform provides a framework for fast and easy development and deployment voice experiences for your application. \nAlan voice enables any application, on any platform.",
+  "homepage": "http://alan.app",
+  "license": {
+    "file": "../LICENSE"
+  },
+  "authors": {
+    "Alan AI, Inc": "sergey@alan.app"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": "Classes/**/*",
+  "public_header_files": "Classes/**/*.h",
+  "dependencies": {
+    "Flutter": [
+
+    ]
+  },
+  "ios": {
+    "vendored_frameworks": "Frameworks/AlanSDK.xcframework"
+  },
+  "platforms": {
+    "ios": "15.0"
+  }
+}
