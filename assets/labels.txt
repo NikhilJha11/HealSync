@@ -1,0 +1,9 @@
+0 Acne and Rosacea
+1 Atopic Dermatitis
+2 Bullous
+3 Eczema
+4 Hair Loss
+5 Herpes and other STDs
+6 Lucus and other Connective Tissues
+7 Melanoma Skin Cancer
+8 Not Found
