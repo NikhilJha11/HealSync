@@ -1,4 +1,4 @@
-*********************************************************************************************************************************************************
+![image](https://github.com/NikhilJha11/HealSync/assets/122666636/4181fba6-2bbc-42e9-94f7-ddbfdf49ecf7)*********************************************************************************************************************************************************
 # Project Setup and Run Instructions
 
 Welcome to the HealSync This README provides instructions for setting up and running the project using NPM and Flutter. Please make sure you have the necessary software and prerequisites installed before proceeding.
@@ -94,6 +94,7 @@ The Flutter project should now be running on your device or simulator.
 TOTAL REPO BRANCHES -  5
 
 EACH BRANCH CONTAINS INDEPEDENT COMPONENTS OF PROJECTS 
+MAIN BRANCH HAS MAIN WEBSITE AND APP SOURCE CODE '
 
 BRANCH NAMES ARE - 
 
@@ -102,6 +103,18 @@ BRANCH NAMES ARE -
 ![image](https://github.com/NikhilJha11/HealSync/assets/122666636/cae13d54-d75a-45b4-886d-98589f04d8a4)
 
 *******************************************************************************************************************************************************
+*******************************************************************************************************************************************************
+
+COMPONENTS OF PROJECTS
+- AI ASSISTED APP
+- TELEMEDICINE CONSULTATION
+- CROSS PLATFORM APPOINTMENT AND AMBULANCE BOOKING
+- SOS TRIGGER FOR EMERGENCY CASES
+- E-PRESCRIPTION GENERATION AND STORAGE ON BLOCKCHAIN
+- HEALTH COMMUNITY FORUM BACKED BY BLOCKCHAIN
+- MEDICINE MARKETPLACE
+
+
 *******************************************************************************************************************************************************
 APP- 
 
